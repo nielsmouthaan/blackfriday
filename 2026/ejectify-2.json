@@ -1,0 +1,19 @@
+{
+  "name": "Ejectify 2",
+  "url": "https://ejectify.app/?utm_source=bf2026-indiegoodies&discount=BLACKFRIDAY",
+  "description": "Unmounts external drives before your Mac sleeps and remounts them when it wakes",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "€2 off a one-time purchase (€6.99 → €4.99), discount applied automatically",
+  "code": "BLACKFRIDAY",
+  "pricing": "one-time",
+  "price": {
+    "regular": 6.99,
+    "sale": 4.99,
+    "currency": "EUR"
+  },
+  "startDate": "2026-11-24",
+  "endDate": "2026-11-30"
+}
